@@ -6,7 +6,7 @@ export default class Collection {
   }
 
   //  a function to add books
-  addBook(singleBook) {
+  addBook = (singleBook) => {
     // push BookInfo to bookData
     this.bookData.push(singleBook);
     // save it to localStorage
@@ -15,7 +15,7 @@ export default class Collection {
     //   addToPage(singleBook);
   }
 
-  deleteBook(bookId) {
+  deleteBook = (bookId) => {
     // get the book element by id
     const bookElement = document.getElementById(bookId);
     bookElement.remove();
