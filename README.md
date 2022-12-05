@@ -27,6 +27,20 @@
 
 **Awesome Books (ES6)** is the ES6 version of previous basic version of [**Awesome Books**](https://github.com/portfolio-roy/awesome-books-basic-utsargo-tanveer). All codes are refatored to ES6 and divded into modules. 
 
+#### List of modules
+
+In alphabetic order:
+1. **addsingle:** Function for adding a single item to the local storage and to the page.
+2. **addtopage:** Function for adding a single item to the page.
+3. **bookinfo:** Constructor class for book object.
+4. **buildpage:** Build the page using local data.
+5. **collection:** Class containing addBook and deleteBook methods.
+6. **date:** Show formatted current date using luxon.
+7. **emptymessage:** Show a message if the list is empty.
+8. **genid:** Generate an alpha-numeric random id for each book.
+9. **menu:** For the menu.
+10. **readinput:** Capture values from the form inputs.
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
