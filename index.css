@@ -112,6 +112,7 @@ hr {
 
 button {
   padding: 5px 10px;
+  cursor: pointer;
 }
 
 .content {
