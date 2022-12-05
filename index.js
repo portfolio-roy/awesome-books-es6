@@ -34,5 +34,5 @@ itemContact.addEventListener('click', () => {
 window.onload = () => {
   buildPage();
   emptyMessage();
-  dateTime()
+  dateTime();
 };
