@@ -25,7 +25,7 @@
 
 # 📖 Awesome Books (ES6) <a name="about-project"></a>
 
-**Awesome Books (ES6)** is the ES6 version of previous basic version of [**Awesome Books**](https://github.com/portfolio-roy/awesome-books-es6). All codes are refatored to ES6 and divded into modules. 
+**Awesome Books (ES6)** is the ES6 version of previous basic version of [**Awesome Books**](https://github.com/portfolio-roy/awesome-books-basic-utsargo-tanveer). All codes are refatored to ES6 and divded into modules. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
