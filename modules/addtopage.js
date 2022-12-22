@@ -15,6 +15,8 @@ export const addToPage = (bookObject) => {
   const deleteBtn = document.createElement('button');
   deleteBtn.innerHTML = 'Delete';
   deleteBtn.addEventListener('click', () => {
+    const bookElement = document.getElementById(bookObject.bookId);
+    bookElement.remove();
     collection.deleteBook(bookObject.bookId);
     emptyMessage();
   });

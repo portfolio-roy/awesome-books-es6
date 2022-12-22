@@ -1,4 +1,4 @@
-import readInput from './radinput.js';
+import readInput from './readinput.js';
 import { addToPage, collection } from './addtopage.js';
 
 const addSingle = () => {
